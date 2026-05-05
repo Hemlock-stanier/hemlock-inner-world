@@ -14,9 +14,9 @@ credits: true
 
 ## About the Collection
 
-This is a collection of journals, stories, and writing utensils from my childhood. Put together, these items provide a glimpse into my imagined inner world.: 
+This is a collection of journals, stories, and writing utensils from my childhood. Put together, these items provide a glimpse into my imagined inner world. 
 
-This collection is designed to show both the content and the materiality of these childhood objects. Use the "Subjects" page to search the collection by color and material as well as by topic.: 
+This collection is designed to show both the content and the materiality of these childhood objects. Use the "Subjects" page to search the collection by color and material as well as by topic.
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
